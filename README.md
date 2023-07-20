@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Skylabss
 - 👀 I’m interested in Coding and reading
-- 🌱 I’m currently learning JS, Phyton and 
+- 🌱 I’m currently learning JS, Phyton and Java Programming
 - 💞️ I’m looking to collaborate on any Freelance Project Web Developer and Dekstop Developer (Java Programming)
 - 📫 How to reach me : email : adipratamapp@email.com
 -             
